@@ -1,0 +1,12 @@
+
+¦
+java:S1192"ŠDefine a constant instead of duplicating this literal "S:\\React\\Programming Learning\\Reactor\\src\\main\\resources\\final.txt" 3 times.(Ï†Öˆûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õÆëœıÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ï†Öˆûÿÿÿÿ
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(€øÕşıÿÿÿÿ
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(³×–Åüÿÿÿÿ8Ò—ïäà0
+c
+java:S10754"ARefactor your code to get this URI from a customizable parameter.(Ê¹ÿÿÿÿÿ8¾Áîäà0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(³Ğİ¥ûÿÿÿÿ8¼õôäà0

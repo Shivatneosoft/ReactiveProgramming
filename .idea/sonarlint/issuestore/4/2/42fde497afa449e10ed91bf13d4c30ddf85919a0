@@ -1,0 +1,10 @@
+
+B
+java:S1602",Remove useless curly braces around statement(ŠÅ€
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ŠÅ€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÿ¨¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş±å§
+I
+java:S1128"3Remove this unused import 'com.rp.courseutil.Util'.(áùµº
