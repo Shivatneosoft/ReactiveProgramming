@@ -10,7 +10,7 @@ public class NameProducer implements Consumer<FluxSink<String>> {
 
     @Override
     public void accept(FluxSink<String> stringFluxSink) {
-        this.fluxSink = stringFluxSink;
+        System.out.println("accept"); this.fluxSink = stringFluxSink;
     }
 
     public void produce(){

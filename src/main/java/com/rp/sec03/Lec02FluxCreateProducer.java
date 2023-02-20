@@ -19,5 +19,9 @@ public class Lec02FluxCreateProducer {
         nameProducer.produce();
         //Multiple produce will result to multiple trigger
         nameProducer.produce();
+        nameProducer.produce();
+        nameProducer.produce();
+        nameProducer.produce();
+        nameProducer.produce();
     }
 }

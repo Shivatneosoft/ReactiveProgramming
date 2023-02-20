@@ -7,7 +7,7 @@ import java.time.Duration;
 
 public class Lec08FluxInterval {
     public static void main(String[] args) {
-        Flux.interval(Duration.ofSeconds(1))
+        Flux.interval(Duration.ofSeconds(2))
                 .subscribe(Util.onNext());
 
         // The ".interval" method is used to run every given interval of time.

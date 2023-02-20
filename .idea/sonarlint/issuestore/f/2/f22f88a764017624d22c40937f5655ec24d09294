@@ -1,12 +1,12 @@
 
-U
-java:S1854":Remove this useless assignment to local variable "stream".(‘Þ¿»þÿÿÿÿ
-F
-java:S1481"+Remove this unused "stream" local variable.(‘Þ¿»þÿÿÿÿ
+\
+java:S1854":Remove this useless assignment to local variable "stream".(‘Þ¿»þÿÿÿÿ8‘’çØâ0
+M
+java:S1481"+Remove this unused "stream" local variable.(‘Þ¿»þÿÿÿÿ8“’çØâ0
 Q	java:S125"<This block of commented-out lines of code should be removed.(ÒÍñ¿
 V	java:S125"<This block of commented-out lines of code should be removed.(ÃÃœ¼ûÿÿÿÿ
-P	java:S125"<This block of commented-out lines of code should be removed.(²òî
-S
-java:S1612"=Replace this lambda with method reference 'integers::stream'.(Õ¶úŠ
+W	java:S125"<This block of commented-out lines of code should be removed.(²òî8•’çØâ0
 Z
-java:S1612"=Replace this lambda with method reference 'integers::stream'.(Õ¶úŠ8å•éçà0
+java:S1612"=Replace this lambda with method reference 'integers::stream'.(Õ¶úŠ8ÖàçØâ0
+Z
+java:S1612"=Replace this lambda with method reference 'integers::stream'.(Õ¶úŠ8¥÷çØâ0
